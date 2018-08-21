@@ -1,4 +1,3 @@
-# Virtual-Memory-Management
 This program simulates access to the physical memory while using paging mechanism
 
 how to install the program:
