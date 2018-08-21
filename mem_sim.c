@@ -1,5 +1,4 @@
 /* NAME: Ofir Cohen
- * ID: 312255847
  * DATE: 21/6/2018
  *
  * This program simulates access to the physical memory while using paging mechanism
